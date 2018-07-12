@@ -1,0 +1,214 @@
+﻿
+
+<!DOCTYPE HTML>
+<!--
+	Edition by Ahmed Elsheikh
+<html>
+	<head>
+		<title>Elements - Editorial by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+                <link rel="icon" href="images/icon1.png" type="image/x-icon">
+                <link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
+                <link href="https://fonts.googleapis.com/css?family=El+Messiri" rel="stylesheet">
+                <link href="https://fonts.googleapis.com/css?family=Amiri" rel="stylesheet">
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+                <script src="https://www.gstatic.com/firebasejs/5.1.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  // TODO: Replace with your project's customized code snippet
+  var config = {
+    apiKey: "<API_KEY>",
+    authDomain: "<PROJECT_ID>.firebaseapp.com",
+    databaseURL: "https://<DATABASE_NAME>.firebaseio.com",
+    projectId: "<PROJECT_ID>",
+    storageBucket: "<BUCKET>.appspot.com",
+    messagingSenderId: "<SENDER_ID>",
+  };
+  firebase.initializeApp(config);
+</script>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5900155544737371",
+    enable_page_level_ads: true
+  });
+</script>
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<strong class="stro"style="font-size:25px;font-family:El Messiri;width:50px;">نزلة خيال</strong>
+									<ul class="icons">
+										<li><a href="https://twitter.com/NazletKhayal" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/NazletKhayal/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="https://plus.google.com/u/1/103265951626362654548" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+										<li><a href="https://www.instagram.com/nazletkhayal/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Elements</h1>
+									</header>
+
+									
+
+									<hr class="major" />
+
+									
+											<div class="6u 12u$(medium)">
+
+												
+												
+													<div class="row">
+														<div class="6u 12u$(small)">
+
+															
+														
+
+														</div>
+														<div class="6u$ 12u$(small)">
+
+															
+                                                                                                             <iframe src="https://www.youtube.com/watch?v=3CFnwX4ACF4&t=0s&index=6&list=PLHIfW1KZRIfkDF2xTIB5kX8gdthmLTufx" width="900" height="500" frameborder="0" allowfullscreen></iframe> 
+															
+
+														</div>
+													</div>
+													
+
+													
+
+													
+
+												<!-- Blockquote -->
+													<h3>Blockquote</h3>
+													<blockquote> نزلة خيال - نزلة خيال  </blockquote>
+
+												
+
+													
+
+											</div>
+											
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="بحث" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>القائمة</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">الصفحة الرئيسية</a></li>
+										<li><a href="generic.html">Generic</a></li>
+										<li><a href="elements.html">Elements</a></li>
+										<li>
+											<span class="opener">Submenu</span>
+											<ul>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Etiam Dolore</a></li>
+										<li><a href="#">Adipiscing</a></li>
+										<li>
+											<span class="opener">Another Submenu</span>
+											<ul>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Maximus Erat</a></li>
+										<li><a href="#">Sapien Mauris</a></li>
+										<li><a href="#">Amet Lacinia</a></li>
+									</ul>
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Ante interdum</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">المزيد</a></li>
+									</ul>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>عن نزلة خيال</h2>
+									</header>
+									<p>قرية نزلة خيال هي إحدى القرى التابعة لمركز أبو كبير في محافظة الشرقية في جمهورية مصر العربية. حسب إحصاءات سنة 2006، بلغ إجمالي السكان في نزلة خيال 6240 نسمة، منهم 3223 رجل و3017 امرأة</p>
+									<ul class="contact">
+										<li class="fa-envelope-o">nazletkhayal@gmail.com</li>
+                                                                                <li class="fa-envelope-o">nazletkhayal@gmail.com</li>
+										<li class="fa-phone">01092382210</li>
+										<li class="fa-home">نزلة خيال - أبوكبير - الشرقية</li>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; جميع الحقوق محفوظة لقرية نزلة خيال 2018</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
